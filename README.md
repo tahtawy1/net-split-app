@@ -66,8 +66,8 @@ Scalable structure suitable for large desktop systems
   <img src="assets/screenshots/AddRoomate.PNG" width="800"/>
 </p>
 
-<p align="center">
-  <img src="assets/screenshots/AboutUsDark.PNG" width="600"/>
-  <img src="assets/screenshots/AboutUs.PNG" width="600"/>
+<p align="left">
+  <img src="assets/screenshots/AboutUsDark.PNG" width="800"/>
+  <img src="assets/screenshots/AboutUs.PNG" width="800"/>
 </p>
 
