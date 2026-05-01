@@ -1,13 +1,13 @@
 🖥️ Project Overview
 
-NetSplit Desktop App is a Flutter-based desktop application designed to monitor, manage, and analyze network usage in a structured and efficient way.
+NetSplit Desktop App is a Flutter-based desktop application designed to calculate, manage, and analyze network usage in a structured and efficient way.
 
-The project focuses on providing a clean dashboard experience for tracking usage data, managing users, and visualizing consumption details. It follows a feature-first, clean architecture approach to ensure scalability and maintainability.
+The project focuses on providing a clean dashboard experience managing users, and visualizing consumption details. It follows a feature-first, clean architecture approach to ensure scalability and maintainability (manually).
 
 🌟 Core Features
 📊 Usage Monitoring Dashboard
 
-Provides a structured UI to display network usage statistics per user and per plan.
+Provides a structured UI to display network usage statistics per user and per plan (manually).
 Includes breakdowns for total usage, individual consumption, and remaining balance.
 
 👥 User Management System
@@ -45,7 +45,6 @@ The project follows a feature-driven clean architecture:
 /feature
   /dashboard
   /users
-  /usage_tracking
   /auth
   /splash
   
@@ -62,20 +61,13 @@ Scalable structure suitable for large desktop systems
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/screenshots/HomeView.PNG" width="500"/>
-  <img src="assets/screenshots/HomeViewLight.PNG" width="500"/>
-  <img src="assets/screenshots/AddRoomate.PNG" width="500"/>
+  <img src="assets/screenshots/HomeView.PNG" width="600"/>
+  <img src="assets/screenshots/HomeViewLight.PNG" width="600"/>
+  <img src="assets/screenshots/AddRoomate.PNG" width="600"/>
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/AboutUsDark.PNG" width="500"/>
-  <img src="assets/screenshots/AboutUs.PNG" width="500"/>
+  <img src="assets/screenshots/AboutUsDark.PNG" width="600"/>
+  <img src="assets/screenshots/AboutUs.PNG" width="600"/>
 </p>
 
-<p align="center">
-  <img src="assets/screenshots/about.png" width="250"/>
-  <img src="assets/screenshots/splash.png" width="250"/>
-</p>
-⚠️ Core tracking logic not fully implemented yet
-⚠️ Real-time usage calculation still in progress
-⚠️ Backend integration partially completed
