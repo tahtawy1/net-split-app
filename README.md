@@ -60,10 +60,10 @@ Scalable structure suitable for large desktop systems
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="assets/screenshots/HomeView.PNG" width="600"/>
-  <img src="assets/screenshots/HomeViewLight.PNG" width="600"/>
-  <img src="assets/screenshots/AddRoomate.PNG" width="600"/>
+<p align="left">
+  <img src="assets/screenshots/HomeView.PNG" width="6=800"/>
+  <img src="assets/screenshots/HomeViewLight.PNG" width="800"/>
+  <img src="assets/screenshots/AddRoomate.PNG" width="800"/>
 </p>
 
 <p align="center">
